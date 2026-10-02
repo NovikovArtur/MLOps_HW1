@@ -1,0 +1,9 @@
+.git
+.venv
+__pycache__
+*.pyc
+.DS_Store
+fraud_detector/teta-ml-1-2025
+README.md
+fraud_detector/train_model.py
+fraud_detector/requirements-train.txt

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+fraud_detector/teta-ml-1-2025/
